@@ -31,7 +31,7 @@
 
 ### 🔹 Cybersecurity Learning Guide
 
-👉 [https://www.itshahirx.com/](https://www.itshahirx.com/)
+👉 [https://www.itshahirx.com/](https://www.itshahirx.com/roadmap)
 
 ### 🔹 AI Red Teaming Roadmap
 

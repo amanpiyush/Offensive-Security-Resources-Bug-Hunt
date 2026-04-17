@@ -214,7 +214,7 @@ Daily Plan:
 
 👉 [https://www.wiz.io/bug-bounty-masterclass](https://www.wiz.io/bug-bounty-masterclass)
 
-> May require special access — don’t depend on it
+> May require special access — Just learn it.
 
 ---
 
@@ -233,6 +233,5 @@ Daily Plan:
 
 ---
 
-# 🏴‍☠️ Happy Hacking
-
----
+# 🏴‍☠️ Happy Hacking - aman
+  
